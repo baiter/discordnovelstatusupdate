@@ -1,0 +1,19 @@
+{
+  "name": "lmsstatusupdate",
+  "version": "1.0.0",
+  "description": "discord bot status update",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "dependencies": {
+    "discord.js": "*",
+    "request": "*",
+    "cheerio": "*",
+    "fs": "*",
+    "tosource": "*",
+    "jquery": "*"
+  },
+  "author": "baiter",
+  "license": "ISC"
+}
